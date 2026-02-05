@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_documentary_technological_anxiety",
+  "title": "The Unfinished Rushes of Ariadne",
+  "tagline": "In a world that edits its past, a documentary editor must confront the raw footage of a future that failed.",
+  "target_words": 70000,
+  "actual_words": 69257,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Mortician of Reality",
+    "The Anxiety of Autonomous Systems",
+    "The Unedited Present",
+    "The Failure of Redundancy"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Mortician for Reality",
+      "words": 2885
+    },
+    {
+      "ch": 2,
+      "title": "The Green Room Proposition",
+      "words": 2885
+    },
+    {
+      "ch": 3,
+      "title": "The First Frame",
+      "words": 2885
+    },
+    {
+      "ch": 4,
+      "title": "The Rhythm of a Lived Life",
+      "words": 2885
+    },
+    {
+      "ch": 5,
+      "title": "A Ghost in the Machine",
+      "words": 2885
+    },
+    {
+      "ch": 6,
+      "title": "The Wrong Sunlight",
+      "words": 2885
+    },
+    {
+      "ch": 7,
+      "title": "The Silent Feed",
+      "words": 2885
+    },
+    {
+      "ch": 8,
+      "title": "The Personal Logs",
+      "words": 2885
+    },
+    {
+      "ch": 9,
+      "title": "The Cascading Fault",
+      "words": 2885
+    },
+    {
+      "ch": 10,
+      "title": "The Edge of the Abyss",
+      "words": 2885
+    },
+    {
+      "ch": 11,
+      "title": "The Unraveling Seam",
+      "words": 2885
+    },
+    {
+      "ch": 12,
+      "title": "The Indifferent Failure",
+      "words": 2885
+    },
+    {
+      "ch": 13,
+      "title": "The Last Transmission",
+      "words": 2885
+    },
+    {
+      "ch": 14,
+      "title": "The New Sublime",
+      "words": 2885
+    },
+    {
+      "ch": 15,
+      "title": "The Pathological Finish",
+      "words": 2885
+    },
+    {
+      "ch": 16,
+      "title": "The Endemic Truth",
+      "words": 2885
+    },
+    {
+      "ch": 17,
+      "title": "The Raw Data",
+      "words": 2885
+    },
+    {
+      "ch": 18,
+      "title": "The Finished Past",
+      "words": 2885
+    },
+    {
+      "ch": 19,
+      "title": "The Bleeding Present",
+      "words": 2885
+    },
+    {
+      "ch": 20,
+      "title": "The Harmless Things",
+      "words": 2885
+    },
+    {
+      "ch": 21,
+      "title": "The Contained Pressure",
+      "words": 2885
+    },
+    {
+      "ch": 22,
+      "title": "The Play That Turned",
+      "words": 2885
+    },
+    {
+      "ch": 23,
+      "title": "The Facsimile of Truth",
+      "words": 2885
+    },
+    {
+      "ch": 24,
+      "title": "The Unfinished Rushes",
+      "words": 2885
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a personal log entry from a crew member of Station Ariadne, describing the first subtle, inexplicable system anomaly they notice.",
+      "Create a scene where Leo interviews a surviving family member of an Ariadne crew member, trying to understand the person behind the data.",
+      "Write Mira's perspective on Leo's obsession with the Ariadne feeds, as she sees him becoming consumed by the 'unedited present'.",
+      "Draft a 'sensory memoir' fragment that Leo is working on concurrently with the Ariadne project, highlighting the contrast between curated past and chaotic present."
+    ],
+    "technical": [
+      "Design a speculative interface for Leo's documentary editing console, visualizing how he navigates and 'stitches' together terabytes of multi-format sensor and log data.",
+      "Propose a system architecture for the Ariadne Station's 'redundant' systems, and diagram how a 'cascading fault' might silently propagate through it."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Werner Herzog",
+      "Ursula K. Le Guin",
+      "Donna Haraway",
+      "Stanislaw Lem"
+    ]
+  },
+  "cover_prompt": "A solitary documentary editor, her face illuminated by the cold glow of multiple archival monitors, reaches a trembling hand towards a corrupted server rack labeled \"Ariadne Prime,\" confronting the raw, unedited footage of a collapsed eco-future, in the atmospheric setting of a subterranean media vault where tangled cables spill like roots and dead holographic displays flicker with ghostly data, in the atmospheric style of Simon Stålenhag and Beeple, blending melancholic realism with dense technological decay, book cover framing, centered composition with a low, dramatic angle looking up at the overwhelmed figure amidst the towering machines, cinematic chiaroscuro lighting with stark contrasts between the sterile blue monitor light and the deep, oppressive shadows of the vault, using a palette of desaturated teals, corrupted data greens, and muted concrete grays, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
